@@ -19,5 +19,5 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oliwerwojtas&show_icons=true&locale=en&layout=compact&theme=dark" alt="oliwerwojtas"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=oliwerwojtas&theme=dark" alt="oliwerwojtas" /> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=oliwerwojtas&theme=dark" alt="oliwerwojtas" style="margin-left: 50px;" /> 
 </div>
