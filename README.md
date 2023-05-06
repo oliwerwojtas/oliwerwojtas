@@ -17,5 +17,8 @@
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> <br>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>     </p>
 
-<p align="center">
- [![GitHub Streak](https://streak-stats.demolab.com?user=oliwerwojtas&theme=dark&mode=weekly)](https://git.io/streak-stats)</p>
+<div>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliwerwojtas&show_icons=true&locale=en&layout=compact&theme=dark" alt="oliwerwojtas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oliwerwojtas&theme=dark" alt="oliwerwojtas" /></p>
+ </div>
